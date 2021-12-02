@@ -1,0 +1,123 @@
+binID,GTDB_classification,Group,Phylum,completeness,contamination,heterogeneity,sample,Reads_mapped,reads_proportion
+sak_2010_1_5_120m.69,d__Archaea;p__Altiarchaeota;c__Altiarchaeia;o__SCGC-AAA252-I15;f__SCGC-AAA252-I15;g__SCGC-AAA252-I15;s__SCGC-AAA252-I15 sp000402775,Archaea,Altiarchaea,88.01,0.07,0,sak-2010-01-05,148543,0.297458364
+sak_2011_5_24_120m.44,d__Archaea;p__Altiarchaeota;c__Altiarchaeia;o__SCGC-AAA252-I15;f__SCGC-AAA252-I15;g__SCGC-AAA252-I15;s__SCGC-AAA252-I15 sp000402775,Archaea,Altiarchaea,88.94,1.87,50,sak-2011-05-24,255481,0.492829083
+sak_2013_06_06_120m.25,d__Archaea;p__Altiarchaeota;c__Altiarchaeia;o__SCGC-AAA252-I15;f__SCGC-AAA252-I15;g__SCGC-AAA252-I15;s__SCGC-AAA252-I15 sp000402775,Archaea,Altiarchaea,91.74,0.93,100,sak-2013-06-06,186474,0.342523073
+sak_2010_1_5_120m.21,d__Archaea;p__Crenarchaeota;c__Bathyarchaeia;o__TCS64;f__TCS64;g__RBG-16-57-9;s__,Archaea,Crenarchaea,92.68,3.74,20,sak-2010-01-05,230513,0.461603845
+sak_2011_5_24_120m.1,d__Archaea;p__Crenarchaeota;c__Bathyarchaeia;o__TCS64;f__TCS64;g__RBG-16-57-9;s__,Archaea,Crenarchaea,76.3,3.88,20,sak-2011-05-24,106313,0.205080371
+sak_2013_06_06_120m.48,d__Archaea;p__Crenarchaeota;c__Bathyarchaeia;o__TCS64;f__TCS64;g__RBG-16-57-9;s__,Archaea,Crenarchaea,80.92,3.35,0,sak-2013-06-06,135567,0.249015012
+sak_2010_1_5_120m.44,d__Archaea;p__Halobacterota;c__Methanomicrobia;o__Methanomicrobiales;f__Methanospirillaceae;g__;s__,Archaea,Halobacteria,95.05,1.68,50,sak-2010-01-05,422163,0.845384269
+sak_2011_5_24_120m.18,d__Archaea;p__Halobacterota;c__Methanomicrobia;o__Methanomicrobiales;f__Methanospirillaceae;g__;s__,Archaea,Halobacteria,99.67,1.96,33.33,sak-2011-05-24,322877,0.622837612
+sak_2013_06_06_120m.5,d__Archaea;p__Halobacterota;c__Methanomicrobia;o__Methanomicrobiales;f__Methanospirillaceae;g__;s__,Archaea,Halobacteria,99.02,1.31,0,sak-2013-06-06,361286,0.663624907
+sak_2010_1_5_120m.40,d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanotrichales;f__Methanotrichaceae;g__;s__,Archaea,Halobacteria,51.65,0.87,0,sak-2010-01-05,44865,0.089842467
+sak_2011_5_24_120m.50,d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanotrichales;f__Methanotrichaceae;g__;s__,Archaea,Halobacteria,96.73,0.98,0,sak-2011-05-24,158062,0.304905455
+sak_2013_06_06_120m.66,d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanotrichales;f__Methanotrichaceae;g__;s__,Archaea,Halobacteria,91.65,2.34,20,sak-2013-06-06,121738,0.223613339
+sak_2010_1_5_120m.15,d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanotrichales;f__Methanotrichaceae;g__Methanothrix_A;s__,Archaea,Halobacteria,97.53,0.99,0,sak-2010-01-05,235100,0.470789344
+sak_2011_5_24_120m.63,d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanotrichales;f__Methanotrichaceae;g__Methanothrix_A;s__,Archaea,Halobacteria,96.22,1.97,20,sak-2011-05-24,246826,0.476133377
+sak_2013_06_06_120m.76,d__Archaea;p__Halobacterota;c__Methanosarcinia;o__Methanotrichales;f__Methanotrichaceae;g__Methanothrix_A;s__,Archaea,Halobacteria,93.59,0.99,0,sak-2013-06-06,315389,0.57931942
+sak_2010_1_5_120m.60,d__Archaea;p__Halobacterota;c__Syntrophoarchaeia;o__ANME-1;f__;g__;s__,Archaea,Halobacteria,83.66,3.27,0,sak-2010-01-05,157837,0.316069662
+sak_2011_5_24_120m.40,d__Archaea;p__Halobacterota;c__Syntrophoarchaeia;o__ANME-1;f__;g__;s__,Archaea,Halobacteria,83.78,4.14,0,sak-2011-05-24,153914,0.296903862
+sak_2013_06_06_120m.47,d__Archaea;p__Halobacterota;c__Syntrophoarchaeia;o__ANME-1;f__;g__;s__,Archaea,Halobacteria,86.58,3.27,0,sak-2013-06-06,211428,0.388359601
+sak_2010_1_5_120m.57,d__Archaea;p__Nanoarchaeota;c__Nanoarchaeia;o__Pacearchaeales;f__;g__;s__,Archaea,Nanoarchaea,67.68,5.61,16.67,sak-2010-01-05,296651,0.594045638
+sak_2011_5_24_120m.49,d__Archaea;p__Nanoarchaeota;c__Nanoarchaeia;o__Pacearchaeales;f__;g__;s__,Archaea,Nanoarchaea,58.8,0,0,sak-2011-05-24,167648,0.323397083
+sak_2013_06_06_120m.42,d__Archaea;p__Nanoarchaeota;c__Nanoarchaeia;o__Pacearchaeales;f__;g__;s__,Archaea,Nanoarchaea,64.41,0,0,sak-2013-06-06,135462,0.248822144
+sak_2013_06_06_120m.56,d__Archaea;p__Nanoarchaeota;c__Nanoarchaeia;o__Pacearchaeales;f__GW2011-AR1;g__ARS1301;s__,Archaea,Nanoarchaea,61.99,7.48,18.18,sak-2013-06-06,92733,0.170335769
+sak_2010_1_5_120m.9,d__Bacteria;p__Acidobacteriota;c__Aminicenantia;o__Aminicenantales;f__Aminicenantaceae;g__Aminicenans;s__Aminicenans sakinawicola,Bacteria,Acidobacteria,88.66,4.27,0,sak-2010-01-05,1598302,3.200610588
+sak_2011_5_24_120m.66,d__Bacteria;p__Acidobacteriota;c__Aminicenantia;o__Aminicenantales;f__Aminicenantaceae;g__Aminicenans;s__Aminicenans sakinawicola,Bacteria,Acidobacteria,90.37,2.56,0,sak-2011-05-24,2423132,4.674280757
+sak_2013_06_06_120m.37,d__Bacteria;p__Acidobacteriota;c__Aminicenantia;o__Aminicenantales;f__Aminicenantaceae;g__Aminicenans;s__Aminicenans sakinawicola,Bacteria,Acidobacteria,92.94,6.41,0,sak-2013-06-06,1189908,2.1856717
+sak_2013_06_06_120m.41,d__Bacteria;p__Actinobacteriota;c__UBA1414;o__UBA1414;f__UBA1414;g__;s__,Bacteria,Actinobacteria,70,3.64,0,sak-2013-06-06,188683,0.346580655
+sak_2011_5_24_120m.70,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__CG2-30-32-10;g__;s__,Bacteria,Bacteroidetes,84.77,2.69,40,sak-2011-05-24,361923,0.698158299
+sak_2013_06_06_120m.49,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__CG2-30-32-10;g__;s__,Bacteria,Bacteroidetes,87.51,8.06,10.53,sak-2013-06-06,304341,0.559026001
+sak_2010_1_5_120m.53,d__Bacteria;p__Bipolaricaulota;c__Bipolaricaulia;o__UBA7950;f__UBA7950;g__UBA9294;s__,Bacteria,Candidatus OP1,69,3.39,100,sak-2010-01-05,88871,0.17796478
+sak_2011_5_24_120m.73,d__Bacteria;p__Bipolaricaulota;c__Bipolaricaulia;o__UBA7950;f__UBA7950;g__UBA9294;s__,Bacteria,Candidatus OP1,61.02,0.62,75,sak-2011-05-24,124220,0.239623411
+sak_2013_06_06_120m.53,d__Bacteria;p__Bipolaricaulota;c__Bipolaricaulia;o__UBA7950;f__UBA7950;g__UBA9294;s__,Bacteria,Candidatus OP1,68.41,0.15,0,sak-2013-06-06,65528,0.120364512
+sak_2013_06_06_120m.26,d__Bacteria;p__Bipolaricaulota;c__Bipolaricaulia;o__UBA7950;f__UBA7950;g__UBA9294;s__,Bacteria,Candidatus OP1,64.51,0.15,0,sak-2013-06-06,150191,0.275876974
+sak_2010_1_5_120m.54,d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__UBA7937;f__;g__;s__,Bacteria,Chloroflexi,54.12,2.12,0,sak-2010-01-05,141672,0.28369914
+sak_2011_5_24_120m.3,d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__UBA7937;f__;g__;s__,Bacteria,Chloroflexi,73.64,2.88,40,sak-2011-05-24,269219,0.519330021
+sak_2013_06_06_120m.14,d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__UBA7937;f__;g__;s__,Bacteria,Chloroflexi,75.09,6.26,9.09,sak-2013-06-06,235071,0.431788031
+sak_2010_1_5_120m.10,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__Dehalococcoidales;f__UBA5760;g__;s__,Bacteria,Chloroflexi,64.42,3.17,100,sak-2010-01-05,249436,0.499497281
+sak_2011_5_24_120m.36,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__Dehalococcoidales;f__UBA5760;g__;s__,Bacteria,Chloroflexi,79.54,0.99,100,sak-2011-05-24,262480,0.506330325
+sak_2011_5_24_120m.53,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__Dehalococcoidales;f__UBA5760;g__;s__,Bacteria,Chloroflexi,62.01,0.99,100,sak-2011-05-24,346186,0.667801242
+sak_2013_06_06_120m.72,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__Dehalococcoidales;f__UBA5760;g__;s__,Bacteria,Chloroflexi,75.33,1.98,50,sak-2013-06-06,264580,0.485991369
+sak_2013_06_06_120m.10,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__Dehalococcoidales;f__UBA5760;g__;s__,Bacteria,Chloroflexi,60.11,1.98,0,sak-2013-06-06,394435,0.724514347
+sak_2013_06_06_120m.61,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__;g__;s__,Bacteria,Chloroflexi,85.48,0,0,sak-2013-06-06,99015,0.181874803
+sak_2010_1_5_120m.68,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__AB-539-J10;g__20-14-all-45-10;s__,Bacteria,Chloroflexi,91.91,4.07,0,sak-2010-01-05,218586,0.437719947
+sak_2011_5_24_120m.39,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__AB-539-J10;g__20-14-all-45-10;s__,Bacteria,Chloroflexi,87.95,0,0,sak-2011-05-24,142797,0.275458898
+sak_2013_06_06_120m.77,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__AB-539-J10;g__20-14-all-45-10;s__,Bacteria,Chloroflexi,86.96,0,0,sak-2013-06-06,141503,0.2599185
+sak_2010_1_5_120m.24,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__;s__,Bacteria,Chloroflexi,59.71,0.99,0,sak-2010-01-05,1237929,2.478961213
+sak_2011_5_24_120m.23,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__;s__,Bacteria,Chloroflexi,70.79,1.98,100,sak-2011-05-24,1342529,2.589771202
+sak_2013_06_06_120m.59,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__;s__,Bacteria,Chloroflexi,80.75,0,0,sak-2013-06-06,720634,1.323690016
+sak_2013_06_06_120m.17,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__;s__,Bacteria,Chloroflexi,66.31,0.99,0,sak-2013-06-06,2954266,5.426516665
+sak_2010_1_5_120m.20,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__9FT-COMBO-48-23;s__,Bacteria,Chloroflexi,94.52,0.99,0,sak-2010-01-05,1223927,2.450922113
+sak_2011_5_24_120m.5,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__9FT-COMBO-48-23;s__,Bacteria,Chloroflexi,94.72,0.99,0,sak-2011-05-24,667872,1.288341385
+sak_2013_06_06_120m.71,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5620;g__9FT-COMBO-48-23;s__,Bacteria,Chloroflexi,94.52,0.99,0,sak-2013-06-06,1286950,2.363922417
+sak_2010_1_5_120m.56,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5629;g__UBA1162;s__,Bacteria,Chloroflexi,88.78,1.6,66.67,sak-2010-01-05,1064386,2.131440179
+sak_2011_5_24_120m.55,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5629;g__UBA1162;s__,Bacteria,Chloroflexi,91.97,1.98,100,sak-2011-05-24,1200836,2.316441947
+sak_2013_06_06_120m.60,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__GIF9;f__UBA5629;g__UBA1162;s__,Bacteria,Chloroflexi,86.4,1.98,100,sak-2013-06-06,1100788,2.021972438
+sak_2011_5_24_120m.38,d__Bacteria;p__Cloacimonadota;c__Cloacimonadia;o__JGIOTU-2;f__JGIOTU-2;g__JGIOTU-2;s__JGIOTU-2 sp000404785,Bacteria,Cloacimonadetes ,74.33,2.2,100,sak-2011-05-24,2706190,5.220306547
+sak_2013_06_06_120m.7,d__Bacteria;p__Cloacimonadota;c__Cloacimonadia;o__JGIOTU-2;f__JGIOTU-2;g__JGIOTU-2;s__JGIOTU-2 sp000404785,Bacteria,Cloacimonadetes ,73.43,3.85,25,sak-2013-06-06,2509588,4.60971392
+sak_2010_1_5_120m.6,d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__UBA12409;g__UBA12409;s__,Bacteria,Dependentia,55.69,1.42,0,sak-2010-01-05,103536,0.207331542
+sak_2013_06_06_120m.50,d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__UBA12409;g__UBA12409;s__,Bacteria,Dependentia,57.89,0,0,sak-2013-06-06,56217,0.103261686
+sak_2011_5_24_120m.29,d__Bacteria;p__Desulfobacterota;c__Desulfomonilia;o__Desulfomonilales;f__Desulfomonilaceae;g__;s__,Bacteria,Desulfobacteria,77.53,0.88,100,sak-2011-05-24,326140,0.629132018
+sak_2013_06_06_120m.78,d__Bacteria;p__Desulfobacterota;c__Desulfomonilia;o__Desulfomonilales;f__Desulfomonilaceae;g__;s__,Bacteria,Desulfobacteria,70.92,0,0,sak-2013-06-06,288844,0.530560477
+sak_2010_1_5_120m.7,d__Bacteria;p__Desulfobacterota;c__Syntrophia;o__Syntrophales;f__;g__;s__,Bacteria,Desulfobacteria,92.87,3.44,0,sak-2010-01-05,480497,0.962198499
+sak_2011_5_24_120m.62,d__Bacteria;p__Desulfobacterota;c__Syntrophia;o__Syntrophales;f__;g__;s__,Bacteria,Desulfobacteria,93.51,4.09,0,sak-2011-05-24,496137,0.95706038
+sak_2013_06_06_120m.58,d__Bacteria;p__Desulfobacterota;c__Syntrophia;o__Syntrophales;f__;g__;s__,Bacteria,Desulfobacteria,96.09,3.44,0,sak-2013-06-06,499857,0.91815779
+sak_2013_06_06_120m.8,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__;g__;s__,Bacteria,Firmicutes,79.31,0,0,sak-2013-06-06,170214,0.31265604
+sak_2013_06_06_120m.30,d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Acholeplasmataceae;g__UBA2284;s__,Bacteria,Firmicutes,62.56,5.33,0,sak-2013-06-06,91934,0.168868133
+sak_2013_06_06_120m.23,d__Bacteria;p__Marinisomatota;c__UBA2242;o__UBA2242;f__UBA2242;g__;s__,Bacteria,Marinisomatota,66.25,3.95,0,sak-2013-06-06,141014,0.259020285
+sak_2011_5_24_120m.26,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA10183;f__;g__;s__,Bacteria,Omnitropha,64.09,1.61,50,sak-2011-05-24,53183,0.102591305
+sak_2010_1_5_120m.23,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA1560;f__Omnitrophaceae_A;g__;s__,Bacteria,Omnitropha,83.48,4.84,40,sak-2010-01-05,249779,0.500184141
+sak_2011_5_24_120m.57,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA1560;f__Omnitrophaceae_A;g__;s__,Bacteria,Omnitropha,92.23,3.23,33.33,sak-2011-05-24,210959,0.406945059
+sak_2013_06_06_120m.22,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA1560;f__Omnitrophaceae_A;g__;s__,Bacteria,Omnitropha,89.72,2.51,50,sak-2013-06-06,232157,0.426435476
+sak_2010_1_5_120m.1,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA1560;f__RBG-13-46-9;g__;s__,Bacteria,Omnitropha,65.32,7.35,0,sak-2010-01-05,59503,0.119155161
+sak_2010_1_5_120m.67,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA6215;f__;g__;s__,Bacteria,Omnitropha,64.68,0,0,sak-2010-01-05,64645,0.129452051
+sak_2013_06_06_120m.46,d__Bacteria;p__Omnitrophota;c__koll11;o__UBA6215;f__;g__;s__,Bacteria,Omnitropha,52.28,0.54,100,sak-2013-06-06,55942,0.102756555
+sak_2013_06_06_120m.40,d__Bacteria;p__Patescibacteria;c__ABY1;o__BM507;f__;g__;s__,Bacteria,Patescibacteria,60.4,3.17,75,sak-2013-06-06,172905,0.317598979
+sak_2011_5_24_120m.72,d__Bacteria;p__Patescibacteria;c__ABY1;o__BM507;f__GWE2-39-37;g__;s__,Bacteria,Patescibacteria,65.15,3.47,83.33,sak-2011-05-24,207163,0.399622482
+sak_2011_5_24_120m.45,d__Bacteria;p__Patescibacteria;c__ABY1;o__Magasanikbacterales;f__UBA922;g__UBA11710;s__,Bacteria,Patescibacteria,54.46,6.74,0,sak-2011-05-24,54155,0.104466316
+sak_2010_1_5_120m.30,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA1558;f__;g__;s__,Bacteria,Patescibacteria,71.6,4.62,0,sak-2010-01-05,314829,0.630447206
+sak_2011_5_24_120m.12,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA1558;f__;g__;s__,Bacteria,Patescibacteria,69.17,1.65,0,sak-2011-05-24,347161,0.66968204
+sak_2013_06_06_120m.36,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA1558;f__;g__;s__,Bacteria,Patescibacteria,75.38,9.08,0,sak-2013-06-06,330550,0.607167765
+sak_2010_1_5_120m.63,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA2196;f__UBA2196;g__;s__,Bacteria,Patescibacteria,60.87,0,0,sak-2010-01-05,82527,0.165260877
+sak_2013_06_06_120m.27,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA2196;f__UBA2196;g__;s__,Bacteria,Patescibacteria,54.34,0,0,sak-2013-06-06,61239,0.112486301
+sak_2010_1_5_120m.66,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA2591;f__UBA6264;g__;s__,Bacteria,Patescibacteria,54.63,4.86,12.5,sak-2010-01-05,453047,0.907229688
+sak_2011_5_24_120m.65,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA2591;f__UBA6264;g__;s__,Bacteria,Patescibacteria,59.72,5.64,12.5,sak-2011-05-24,429631,0.828768683
+sak_2013_06_06_120m.20,d__Bacteria;p__Patescibacteria;c__ABY1;o__UBA2591;f__UBA6264;g__;s__,Bacteria,Patescibacteria,54.63,2.95,0,sak-2013-06-06,300045,0.551134933
+sak_2013_06_06_120m.16,d__Bacteria;p__Patescibacteria;c__GCA-002792135;o__;f__;g__;s__,Bacteria,Patescibacteria,52.01,0,0,sak-2013-06-06,62824,0.115397694
+sak_2010_1_5_120m.45,d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Shapirobacterales;f__0-14-0-10-38-17;g__;s__,Bacteria,Patescibacteria,53.92,2.7,80,sak-2010-01-05,82723,0.165653368
+sak_2011_5_24_120m.8,d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Shapirobacterales;f__0-14-0-10-38-17;g__;s__,Bacteria,Patescibacteria,60.3,4.39,100,sak-2011-05-24,86052,0.165996408
+sak_2013_06_06_120m.12,d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__Shapirobacterales;f__0-14-0-10-38-17;g__;s__,Bacteria,Patescibacteria,67.4,3.45,100,sak-2013-06-06,85302,0.156686204
+sak_2010_1_5_120m.14,d__Bacteria;p__Patescibacteria;c__Paceibacteria_A;o__;f__;g__;s__,Bacteria,Patescibacteria,68.93,3.37,33.33,sak-2010-01-05,76730,0.153652345
+sak_2011_5_24_120m.60,d__Bacteria;p__Patescibacteria;c__Paceibacteria_A;o__;f__;g__;s__,Bacteria,Patescibacteria,72.94,2.25,0,sak-2011-05-24,123018,0.237304724
+sak_2011_5_24_120m.58,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__2-01-FULL-47-10;f__;g__;s__,Bacteria,Patescibacteria,59.69,1.39,0,sak-2011-05-24,275683,0.531799234
+sak_2010_1_5_120m.16,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__;g__;s__,Bacteria,Patescibacteria,61.68,3.19,0,sak-2010-01-05,58780,0.117707348
+sak_2013_06_06_120m.67,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__;g__;s__,Bacteria,Patescibacteria,60.15,0,0,sak-2013-06-06,51428,0.094465055
+sak_2013_06_06_120m.68,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__2-12-FULL-40-12;g__;s__,Bacteria,Patescibacteria,67.53,1.72,0,sak-2013-06-06,58150,0.106812299
+sak_2013_06_06_120m.69,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__CG1-02-41-26;g__;s__,Bacteria,Patescibacteria,50.84,0,0,sak-2013-06-06,27199,0.049960236
+sak_2011_5_24_120m.7,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__GBS-2;g__;s__,Bacteria,Patescibacteria,59.31,1.69,0,sak-2011-05-24,92959,0.179320179
+sak_2010_1_5_120m.46,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__GCA-002782225;g__;s__,Bacteria,Patescibacteria,62.36,0.63,25,sak-2010-01-05,66025,0.13221551
+sak_2013_06_06_120m.29,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__GWA2-38-27;g__;s__,Bacteria,Patescibacteria,55.41,0,0,sak-2013-06-06,60630,0.111367665
+sak_2010_1_5_120m.13,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__GWA2-38-27;g__XYB1-FULL-40-15;s__,Bacteria,Patescibacteria,53.76,1.44,16.67,sak-2010-01-05,57176,0.114495328
+sak_2011_5_24_120m.13,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__GWA2-38-27;g__XYB1-FULL-40-15;s__,Bacteria,Patescibacteria,59.7,0.99,0,sak-2011-05-24,81241,0.156715871
+sak_2011_5_24_120m.2,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__MHMH01;g__MHMH01;s__,Bacteria,Patescibacteria,50.9,0.93,0,sak-2011-05-24,39194,0.075606182
+sak_2010_1_5_120m.49,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__PEYH01;g__PEYH01;s__,Bacteria,Patescibacteria,69.96,0.86,0,sak-2010-01-05,114265,0.228816437
+sak_2011_5_24_120m.4,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__PEYH01;g__PEYH01;s__,Bacteria,Patescibacteria,70.82,0,0,sak-2011-05-24,123662,0.238547016
+sak_2013_06_06_120m.11,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__PEYH01;g__PEYH01;s__,Bacteria,Patescibacteria,70.82,0,0,sak-2013-06-06,112012,0.205748225
+sak_2010_1_5_120m.19,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__RBG-13-42-11;g__RBG-13-42-11;s__,Bacteria,Patescibacteria,55.22,0,0,sak-2010-01-05,53745,0.107624727
+sak_2011_5_24_120m.46,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__RBG-13-42-11;g__RBG-13-42-11;s__,Bacteria,Patescibacteria,56.14,0.15,100,sak-2011-05-24,62893,0.121322132
+sak_2013_06_06_120m.3,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__RBG-13-42-11;g__RBG-13-42-11;s__,Bacteria,Patescibacteria,55.22,0,0,sak-2013-06-06,71637,0.131585773
+sak_2010_1_5_120m.48,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__Staskawiczbacteraceae;g__;s__,Bacteria,Patescibacteria,68.28,0.99,0,sak-2010-01-05,113850,0.227985397
+sak_2011_5_24_120m.17,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__Staskawiczbacteraceae;g__;s__,Bacteria,Patescibacteria,68.28,1.98,50,sak-2011-05-24,133098,0.25674929
+sak_2013_06_06_120m.43,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__Staskawiczbacteraceae;g__;s__,Bacteria,Patescibacteria,67.95,1.82,0,sak-2013-06-06,122195,0.224452776
+sak_2010_1_5_120m.22,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__UBA5738;g__UBA5738;s__,Bacteria,Patescibacteria,59.7,0.59,50,sak-2010-01-05,166205,0.332826639
+sak_2011_5_24_120m.27,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__UBA5738;g__UBA5738;s__,Bacteria,Patescibacteria,56.9,1.49,0,sak-2011-05-24,214905,0.414556989
+sak_2013_06_06_120m.18,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Paceibacterales;f__UBA5738;g__UBA5738;s__,Bacteria,Patescibacteria,58.38,2.07,33.33,sak-2013-06-06,150677,0.276769679
+sak_2010_1_5_120m.2,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Portnoybacterales;f__UBA2143;g__;s__,Bacteria,Patescibacteria,51.39,0,0,sak-2010-01-05,152348,0.305077903
+sak_2011_5_24_120m.67,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Portnoybacterales;f__UBA2143;g__;s__,Bacteria,Patescibacteria,58.05,0.93,100,sak-2011-05-24,156403,0.301705204
+sak_2013_06_06_120m.39,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__Portnoybacterales;f__UBA2143;g__;s__,Bacteria,Patescibacteria,55.68,1.39,50,sak-2013-06-06,157158,0.288674245
+sak_2011_5_24_120m.28,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__SG8-4;f__SG8-4;g__SG8-4;s__,Bacteria,Planctomycetes,89.77,4.55,25,sak-2011-05-24,654063,1.261703487
+sak_2013_06_06_120m.34,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__SG8-4;f__SG8-4;g__SG8-4;s__,Bacteria,Planctomycetes,91.44,4.55,25,sak-2013-06-06,744087,1.366769446
+sak_2010_1_5_120m.11,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__UBA1268;g__BAIKAL-G1-2R;s__,Bacteria,Planctomycetes,79.06,1.15,100,sak-2010-01-05,203208,0.406925397
+sak_2013_06_06_120m.74,d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__UBA1268;g__BAIKAL-G1-2R;s__,Bacteria,Planctomycetes,57.54,0,0,sak-2013-06-06,91115,0.16736376
+sak_2010_1_5_120m.42,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellae;o__RFP12;f__;g__;s__,Bacteria,Verrucomicrobia,62.13,0.72,0,sak-2010-01-05,165533,0.331480954
+sak_2011_5_24_120m.43,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellae;o__RFP12;f__;g__;s__,Bacteria,Verrucomicrobia,75.51,0.73,0,sak-2011-05-24,199092,0.384053326

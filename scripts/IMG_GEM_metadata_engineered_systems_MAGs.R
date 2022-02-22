@@ -26,6 +26,16 @@ mag_metadata <- left_join(mag_table, species_info) %>% select(genome_id, gtdb_ta
 
 write.csv(mag_metadata, "IMG_results/IMG_MAG_INFO.csv", quote = FALSE, row.names = FALSE)
 
+mag_metadata %>% 
+  group_by(img_taxon_id) %>% 
+  count() %>% 
+  arrange(desc(n))
+
+mag_metadata %>% 
+  count(HABITAT, img_taxon_id) %>% 
+  arrange(desc(n)) %>% 
+  group_by(img_taxon_id)
+
 metagenome_info %>% 
   group_by(ECOSYSTEM_CATEGORY) %>% 
   count()

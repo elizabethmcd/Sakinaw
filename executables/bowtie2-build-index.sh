@@ -16,7 +16,7 @@ project_path="/home/eamcdani/projects/def-shallam/eamcdani/sakinaw"
 mapping_dir="${project_path}/mappingResults"
 
 for dir in ${mapping_dir}/*_FD; do
-	mkdir $dir/bt2
-	bowtie2-build $dir/$dir.final.contigs.fasta $dir/bt2/$dir.fasta 
+	sample=`basename $dir`
+	bowtie2-build ${mapping_dir}/${sample}/$sample.final.contigs.fasta ${mapping_dir}/${sample}/bt2/$sample.fasta 
 
 done

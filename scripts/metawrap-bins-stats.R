@@ -42,3 +42,31 @@ genome_stats <- bins_table %>%
   select(genome, completeness, contamination)
 
 write.csv(genome_stats, "results/metawrap_bins/bin_stats/all_bins_stats.csv", row.names = FALSE, quote = FALSE)
+
+########################################
+# Dereplicated set 
+########################################
+
+dereplicated_genomes <- read_tsv("results/metawrap_bins/dereplicated-genomes.txt", col_names = FALSE)
+colnames(dereplicated_genomes) <- c("binName")
+dereplicated_genomes$binName <- gsub(".fa", "", dereplicated_genomes$binName)
+dereplicated_list <- dereplicated_genomes %>% 
+  pull(binName)
+
+final_bins_table <- bins_table %>% 
+  filter(binName %in% dereplicated_list)
+
+final_bins_table %>% 
+  group_by(phylum) %>% 
+  count() %>% 
+  arrange(desc(n))
+
+final_bins_table %>% 
+  ggplot(aes(x=completeness, y=contamination)) + 
+  geom_point(aes(color=phylum, size=size))
+
+final_bins_table %>% 
+  ggplot(aes(x=phylum, y=completeness)) +
+  geom_boxplot() + 
+  geom_point() +
+  theme(axis.text.x= element_text(angle = 85, hjust=1))

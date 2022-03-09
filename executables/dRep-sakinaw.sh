@@ -2,7 +2,7 @@
 #SBATCH --account=def-shallam
 #SBATCH --cpus-per-task=4
 #SBATCH --mem-per-cpu=15G
-#SBATCH --time=6:0:0
+#SBATCH --time=12:0:0
 #SBATCH --job-name=dRep-sakinaw.sh
 #SBATCH --output=dRep-sakinaw.out
 #SBATCH --mail-user=eamcdani@mail.ubc.ca
@@ -24,3 +24,5 @@ PYTHONPATH=''
 
 # dRep command 
 dRep dereplicate ${out_path} -g ${bins_path}/*.fa --genomeInfo ${bin_stats}
+
+deactivate

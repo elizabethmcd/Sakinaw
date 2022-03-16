@@ -10,7 +10,7 @@
 #SBATCH --mail-type=ALL
 
 # array job
-metaT_file=$(sed -n "${metatranscriptome-sample-codes.txt}p" sakinaw_metagenomes.txt | awk -F "\t" '{print $2}')
+metaT_file=$(sed -n "${SLURM_ARRAY_TASK_ID}p" metatranscriptome_samples_codes.txt | awk -F "\t" '{print $2}')
 metaT_name=$(basename $metaT_file .fastq)
 
 # paths 

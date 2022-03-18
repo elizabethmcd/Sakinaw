@@ -37,7 +37,9 @@ rel_abund_long %>%
   filter(depth != "May2011") %>% 
   ggplot(aes(x=relative_abundance, y=(depth))) +
   geom_point(aes(color=Genome)) +
-  facet_wrap(~ date) + 
+  facet_grid(~ date) + 
   theme(legend.position="none")
+
+# Facet by genome and date
 
   

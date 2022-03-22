@@ -163,6 +163,6 @@ sak_2013_plot <- sak_2013_filtered %>%
 sakinaw_grid_1 <- ggarrange(sak_2010_plot, sak_2011_plot, ncol=1)
 complete_grid <- ggarrange(sakinaw_grid_1, sak_2013_plot, ncol=1, heights=c(1.7,3))
 
-ggsave("~/Desktop/sakinaw-grid.png", complete_grid, width=25, height=20, units=c("cm"))
+ggsave("figs/sakinaw-relAbund-top-grid.png", complete_grid, width=25, height=20, units=c("cm"))
 
 

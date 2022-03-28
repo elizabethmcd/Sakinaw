@@ -24,3 +24,5 @@ covg_counts <- coverage_filtered_table %>%
   group_by(Genome, classification) %>% 
   summarise(n = n()) %>% 
   arrange(desc(n))
+
+covg_counts

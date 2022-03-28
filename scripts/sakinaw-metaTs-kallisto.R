@@ -133,3 +133,20 @@ highGenomes_rawCounts_plot <- highGenomes_long %>%
   geom_hline(yintercept=3.5, linetype="dashed")
 
 ggsave("figs/metaT_highGenomes_rawCounts_plot.png", highGenomes_rawCounts_plot, width=20, height=15, units=c("cm"))
+
+
+########################
+# Counts of total reads mapped to bins vs total reads in that sample 
+########################
+samples_stats <- read.csv("metadata/metatranscriptome-samples-codes.csv")
+
+totalMappedCounts <- rawTable.formatted %>% 
+  select(-Genome, -locus_tag) %>% 
+  colSums() %>% 
+  as.data.frame() %>% 
+  rownames_to_column()
+colnames(totalMappedCounts) <- c("sample_name", "totalMappedReads")
+
+countComparisons <- left_join(samples_stats, totalMappedCounts) %>% 
+  select(sample_name, total_reads, qced_reads_remaining, totalMappedReads) %>% 
+  mutate(mappingPercentage = (totalMappedReads / qced_reads_remaining) * 100)

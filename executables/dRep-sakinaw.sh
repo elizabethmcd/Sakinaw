@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH --account=def-shallam
+#SBATCH --account=rrg-ziels
 #SBATCH --cpus-per-task=4
 #SBATCH --mem-per-cpu=15G
-#SBATCH --time=12:0:0
-#SBATCH --job-name=dRep-sakinaw.sh
-#SBATCH --output=dRep-sakinaw.out
+#SBATCH --time=6:0:0
+#SBATCH --job-name=dRep
+#SBATCH --output=%x.out
 #SBATCH --mail-user=eamcdani@mail.ubc.ca
 #SBATCH --mail-type=ALL
 

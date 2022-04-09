@@ -22,8 +22,8 @@ module load StdEnv/2020 gcc/9.3.0 prodigal hmmer pplacer fastani fasttree mash/2
 
 # export gtdbtk data path
 PYTHONPATH=''
-export GTDBTK_DATA_PATH=/home/eamcdani/projects/rrg-ziels/shared_tools/release202
+export GTDBTK_DATA_PATH=/home/eamcdani/projects/rrg-ziels/shared_tools/databases/gtdb/release202
 
 # gtdbtk command
 
-gtdbtk classify_wf --cpus 16 --extension fa --genome_dir ${bins_path}/ --out_dir ${out_path}
+gtdbtk classify_wf --cpus 16 --extension fa --genome_dir ${bins_path} --out_dir ${out_path}

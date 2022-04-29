@@ -8,13 +8,24 @@
 #SBATCH --mail-user=eamcdani@mail.ubc.ca
 #SBATCH --mail-type=ALL
 
-#paths
-project_path="/home/eamcdani/projects/def-shallam/eamcdani/sakinaw"
-bins_path="${project_path}/final_bins/all_bins"
-coverm_path="/home/eamcdani/.cargo/bin/coverm"
+#!/bin/bash
+#SBATCH --account=def-shallam
+#SBATCH --time 5:0:0
+#SBATCH --cpus-per-task=4
+#SBATCH --mem-per-cpu=10G
+#SBATCH --job-name=coverm-relative-abundance
+#SBATCH --output=coverm-relative-abundance.out
+#SBATCH --mail-user=eamcdani@mail.ubc.ca
+#SBATCH --mail-type=ALL
 
-# load modules for coverm 
-module load rust samtools
+# paths
+project_path="/home/eamcdani/projects/def-shallam/eamcdani/sakinaw"
+mapping_path="${project_path}/metaG_mapping/mappingResults"
+out_path="${project_path}/metaG_mapping"
+
+# load modules
+module load minimap2 samtools
 
 # coverm command
-# faster calculations if mapping has already been performed to bins and BAM files converted to SAM and sorted, but coverm does perform these steps if not done beforehand
+
+/home/eamcdani/.cargo/bin/coverm genome -s "~" -m relative_abundance --bam-files ${mapping_path}/*.sorted.bam --min-read-aligned-percent 0.75 --min-read-percent-identity 0.95 --min-covered-fraction 0 -x fasta -t 1 &> ${out_path}/sakinaw_relative_abundance.txt

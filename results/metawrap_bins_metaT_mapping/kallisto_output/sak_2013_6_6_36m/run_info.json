@@ -1,0 +1,13 @@
+{
+	"n_targets": 422559,
+	"n_bootstraps": 0,
+	"n_processed": 10534750,
+	"n_pseudoaligned": 3356371,
+	"n_unique": 3226970,
+	"p_pseudoaligned": 31.9,
+	"p_unique": 30.6,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue Mar 15 18:53:28 2022",
+	"call": "kallisto quant -i /home/eamcdani/projects/def-shallam/eamcdani/sakinaw/metaT_mapping/sakinaw-orfs -o /home/eamcdani/projects/def-shallam/eamcdani/sakinaw/metaT_mapping/kallisto_output/sak_2013_6_6_36m /home/eamcdani/projects/def-shallam/eamcdani/sakinaw/metaT_mapping/deinterleaved/12600.5.269981.TACCAGG-TCCTGGT.filter-MTF_1.fastq /home/eamcdani/projects/def-shallam/eamcdani/sakinaw/metaT_mapping/deinterleaved/12600.5.269981.TACCAGG-TCCTGGT.filter-MTF_2.fastq"
+}

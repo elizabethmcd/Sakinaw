@@ -1,3 +1,5 @@
+*.fasta
+*.icloud
 *.Rproj
 .DS_Store
 .RData

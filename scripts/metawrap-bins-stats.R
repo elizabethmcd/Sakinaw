@@ -56,6 +56,8 @@ dereplicated_list <- dereplicated_genomes %>%
 final_bins_table <- bins_table %>% 
   filter(binName %in% dereplicated_list)
 
+write.csv(final_bins_table, "results/final_metawrap_bins_table.csv", quote=FALSE, row.names = FALSE)
+
 final_bins_table %>% 
   group_by(phylum) %>% 
   count() %>% 

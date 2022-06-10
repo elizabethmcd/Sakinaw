@@ -27,7 +27,7 @@ rel_abund_info_table <- left_join(rel_abund_stats, final_bins_table) %>%
   mutate(size = size / 1000000) %>% 
   select(Genome, classification, completeness, contamination, GC, size, mean_abundance, max_abundance, min_abundance, median_abundance)
 
-write.csv("results/final_metawrap_bins_relative_abundance_info_table.csv", quote=FALSE, row.names = FALSE)
+write.csv(rel_abund_info_table, "results/final_metawrap_bins_relative_abundance_info_table.csv", quote=FALSE, row.names = FALSE)
 
 rel_abund_long <- relative_abundance %>% 
   filter(Genome != "unmapped") %>% 
